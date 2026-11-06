@@ -39,3 +39,6 @@
 오답 - 카드-n S2C | 
 게임 종료 - 승자, 추가할 카드 S2C | 
 게임 결과 - 승자 선별 후 결과 전달 S2C
+
+# 다이어그램 추가
+<img width="1136" height="558" alt="GameDB" src="https://github.com/user-attachments/assets/17f7d74b-c25a-4e7f-9f9c-cac4be199109" />
